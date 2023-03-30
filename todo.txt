@@ -1,6 +1,6 @@
-1. connect the app to github
-2. cleanup the code
-3. start working on slider
+1. connect the app to github - done
+2. cleanup the code -
+3. start working on slider 
     - Create 3 item
     - Create left and right arrow
 4. dockerize the app

@@ -1,4 +1,4 @@
-# Getting Started with Slider react-slider
+# Getting Started with react-slider
 Slider with the react framework
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
